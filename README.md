@@ -1,7 +1,6 @@
 - 👋 Hi, I’m ```Arin``` aka ```A2514``` aka ```ajaan vyakti```
-- 👀 I’m interested in football, coding, opening up and seeing how random things work eg a fridge
-- 🌱 I’m a certified dev in python and am learning c
-- 📫 How to reach me: insta: ```__a2514__```; discord: ```Anjaan Vyakti```; gmail: no dont mail me i dont check it that often :P
+- 👀 I’m interested in football, coding, astronomy (not astrology lol) 
+- 🌱 I’m a certified dev in python and am learning c. I also have a fair share of experience with JavaScript (made a discord bot with the help of a friend)
 - ⚡ Fun fact: some "fun facts" are not so fun.
 
 <!---
